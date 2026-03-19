@@ -99,8 +99,6 @@ media = (p1*2 + p2*3 + p3*5) / 10
 print("Média final:", media)
 
 
-
-
 #16
 
 nome = input("Nome do candidato: ")
@@ -119,4 +117,3 @@ if media > 7 and port >= 5 and mat >= 5 and geral >= 5:
     print("Aprovado")
 else:
     print("Reprovado")
-
